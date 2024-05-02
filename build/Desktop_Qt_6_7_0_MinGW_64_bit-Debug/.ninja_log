@@ -1,0 +1,13 @@
+# ninja log v5
+1	1162	7355698917884706	CMakeFiles/zorkMaybeActually.dir/main.cpp.obj	d493ccc4c6cfd0ba
+13	1847	7355700836620256	CMakeFiles/zorkMaybeActually.dir/Room.cpp.obj	d105ae1b17ce805
+1171	1656	7355698922744762	zorkMaybeActually.exe	57b98ab0d23a272c
+38	165	7355700819798986	CMakeFiles/zorkMaybeActually.dir/Character.cpp.obj	707965961de1c8e3
+29	1447	7355700832610269	CMakeFiles/zorkMaybeActually.dir/ZorkUL.cpp.obj	43a02318796a1373
+24	913	7355701238879103	CMakeFiles/zorkMaybeActually.dir/Command.cpp.obj	b6aa64370a47f2ae
+9	1343	7355701243159000	CMakeFiles/zorkMaybeActually.dir/item.cpp.obj	b9f64d0edd775c87
+48	1379	7355701243498978	CMakeFiles/zorkMaybeActually.dir/Parser.cpp.obj	591ff4b4be570989
+34	1420	7355701243939000	CMakeFiles/zorkMaybeActually.dir/CommandWords.cpp.obj	d5f25d9fda794adf
+18	371	7355702009841784	CMakeFiles/zorkMaybeActually.dir/main.cpp.obj	d493ccc4c6cfd0ba
+6	1337	7355702195869779	CMakeFiles/zorkMaybeActually.dir/CommandWords.cpp.obj	d5f25d9fda794adf
+1340	1821	7355702200619714	zorkMaybeActually.exe	1b87794f90a9d8f4
